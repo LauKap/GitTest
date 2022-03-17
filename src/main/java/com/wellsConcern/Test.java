@@ -8,5 +8,6 @@ public class Test
         System.out.println("Second version");
         System.out.println("Check out to hot-fix");
         System.out.println("master collision");
+        System.out.println("hot-fix collision");
     }
 }
